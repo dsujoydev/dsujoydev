@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dsujoydev
-- 👀 I’m interested in Full Stack Web Developement
-- 🌱 I’m currently learning NodeJs, MongoDB, ExpressJs
-- 💞️ I’m looking to collaborate on MERN Stack projects
+- 👀 I’m interested in Front-end Web Developement
+- 🌱 I’m currently learning Redux, NodeJs
+- 💞️ I’m looking to collaborate on Full Stack projects
 - 📫 CONTACT me at (dsujoy.cse@gmail.com)
 
 <!---
