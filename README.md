@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dsujoydev
-- 👀 I’m interested in Front-end Web Developement
-- 🌱 I’m currently learning Redux, NodeJs
-- 💞️ I’m looking to collaborate on Full Stack projects
+- 👀 I’m interested in Front-end Web Development
+- 🌱 I’m currently learning Redux, Typescript
+- 💞️ I’m looking to contribute on open source project
 - 📫 CONTACT me at (dsujoy.cse@gmail.com)
 
 <!---
