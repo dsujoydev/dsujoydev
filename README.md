@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning Redux, Typescript
 - 💞️ I’m looking to contribute on open source project
 - 📫 CONTACT me at (dsujoy.cse@gmail.com)
-
-<p align="center"><img src="https://media.giphy.com/media/cOGVaEguK0gOfx1iak/giphy-downsized-large.gif" width="100"/></p>
+<img src="https://media.giphy.com/media/cOGVaEguK0gOfx1iak/giphy-downsized-large.gif" width="100"/>
+ <a href="https://fb.com/proMehedi">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
 
 
 <!---
