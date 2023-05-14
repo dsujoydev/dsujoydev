@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Redux, Typescript
 - 💞️ I’m looking to contribute on open source project
 - 📫 CONTACT me at (dsujoy.cse@gmail.com)
-<img src="https://media.giphy.com/media/cOGVaEguK0gOfx1iak/giphy-downsized.gif" width="100"/>
+<p align="center"> <img src="https://media.giphy.com/media/cOGVaEguK0gOfx1iak/giphy-downsized-large.gif"/> </p>
  <a href="https://www.facebook.com/SujoyUncle/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
