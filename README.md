@@ -13,6 +13,8 @@
   </a>
   
   [![Sujoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsujoydev)](https://github.com/dsujoydev/github-readme-stats)
+  ![Sujoy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dsujoydev&theme=gruvbox&hide_border=true)
+![Sujoy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dsujoydev&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&card_width=445px)
 
 <!---
 dsujoydev/dsujoydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
