@@ -5,7 +5,7 @@ Front-end Developer
 -------------------
 
 *   🌍  I'm based in Bangladesh
-*   🖥️  See my portfolio at [https://sujoy-das-portfolio.vercel.app/](http://sujoy-das-portfolio.vercel.app/)
+*   🖥️  See my portfolio at [dsujoydev](http://sujoy-das-portfolio.vercel.app/)
 *   ✉️  You can contact me at [dsujoydev@gmail.com](mailto:dsujoydev@gmail.com)
 *   🧠  I'm learning AI, MCP
 *   🖥️  Currently working at [Ragnets Software Ltd.](https://ragnets.com/)
